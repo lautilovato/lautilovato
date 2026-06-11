@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 ¡Hola, soy [Tu Nombre]!<br><br>**Software Developer | Programming Student**<br><br>Me dedico a crear soluciones web eficientes y ordenadas. <br>Disfruto del backend estructurado en **NestJS** y **TypeScript**, y de armar interfaces dinámicas con **React**. <br>Creo firmemente que el código limpio y la lógica sólida son la clave para un buen software.
+# 👋 ¡Hola, soy Lautaro Lovato !<br><br>**Software Developer | Programming Student**<br><br>Me dedico a crear soluciones web eficientes y ordenadas. <br>Disfruto del backend estructurado en **NestJS** y **TypeScript**, y de armar interfaces dinámicas con **React**. <br>Creo firmemente que el código limpio y la lógica sólida son la clave para un buen software.
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=lautilovato&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=lautilovato&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lautilovato&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=lautilovato&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
